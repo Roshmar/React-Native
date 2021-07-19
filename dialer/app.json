@@ -1,30 +1,3 @@
-{
-  "expo": {
-    "name": "labs4",
-    "slug": "labs4",
-    "version": "1.0.0",
-    "orientation": "portrait",
-    "icon": "./assets/icon.png",
-    "splash": {
-      "image": "./assets/splash.png",
-      "resizeMode": "contain",
-      "backgroundColor": "#ffffff"
-    },
-    "updates": {
-      "fallbackToCacheTimeout": 0
-    },
-    "assetBundlePatterns": [
-      "**/*"
-    ],
-    "ios": {
-      "supportsTablet": true,
-      "bundleIdentifier": "sk.tuke.smart.labs2"
-    },
-    "web": {
-      "favicon": "./assets/favicon.png"
-    },
-    "android": {
-      "package": "sk.tuke.smart.labs2"
-    }
-  }
-}
+version https://git-lfs.github.com/spec/v1
+oid sha256:2e2479ad969c38e11ab65708cf07cdfeb9caacee41ea5b684295caeef01acbfc
+size 604
